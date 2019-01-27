@@ -4,6 +4,6 @@
 - postgres 11
 - Django 2
 
-####Установка:
+#### Установка:
 
 - pip3 install req.txt
